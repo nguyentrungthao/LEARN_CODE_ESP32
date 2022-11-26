@@ -1,0 +1,20 @@
+{
+    //các thư viện ở đây chỉ là tượng trưng cho vscode ko báo lỗi 
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\xtensa-esp-elf-gdb\\11.2_20220823\\xtensa-esp-elf-gdb\\bin;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\riscv32-esp-elf-gdb\\11.2_20220823\\riscv32-esp-elf-gdb\\bin;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\xtensa-esp32-elf\\esp-2022r1-11.2.0\\xtensa-esp32-elf\\bin;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\xtensa-esp32s2-elf\\esp-2022r1-11.2.0\\xtensa-esp32s2-elf\\bin;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\xtensa-esp32s3-elf\\esp-2022r1-11.2.0\\xtensa-esp32s3-elf\\bin;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\riscv32-esp-elf\\esp-2022r1-11.2.0\\riscv32-esp-elf\\bin;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\esp32ulp-elf\\2.35_20220830\\esp32ulp-elf\\bin;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\cmake\\3.24.0\\bin;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\openocd-esp32\\v0.11.0-esp32-20220706\\openocd-esp32\\bin;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\ninja\\1.10.2;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\idf-exe\\1.0.3;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\ccache\\4.6.2\\ccache-4.6.2-windows-x86_64;e:\\IoT_Lab\\ESP_IDF\\Espressif\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64",
+    "idf.customExtraVars": "{\"OPENOCD_SCRIPTS\":\"e:\\\\IoT_Lab\\\\ESP_IDF\\\\Espressif\\\\tools\\\\openocd-esp32\\\\v0.11.0-esp32-20220706/openocd-esp32/share/openocd/scripts\",\"IDF_CCACHE_ENABLE\":\"1\"}",
+    "idf.espIdfPathWin": "E:\\ESP\\ESP32\\esp-idf",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.pythonBinPathWin": "e:\\IoT_Lab\\ESP_IDF\\Espressif\\python_env\\idf5.0_py3.8_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "E:\\ESP\\ESP32\\Espressif",
+    "files.associations": {
+        "freertos.h": "c",
+        "stdio.h": "c",
+        "task.h": "c",
+        "gpio.h": "c"
+    }
+}
